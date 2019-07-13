@@ -1288,9 +1288,9 @@ static struct device_info boards[] = {
 		.last_sysupgrade_partition = "file-system"
 	},
 
-	/** Firmware layout for the RE450 */
+	/** Firmware layout for the RE450 v1 */
 	{
-		.id = "RE450",
+		.id = "RE450-V1",
 		.vendor = "",
 		.support_list =
 			"SupportList:\r\n"
